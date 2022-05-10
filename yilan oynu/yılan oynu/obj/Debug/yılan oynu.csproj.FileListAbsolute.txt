@@ -1,0 +1,10 @@
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\bin\Debug\yılan oynu.exe.config
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\bin\Debug\yılan oynu.exe
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\bin\Debug\yılan oynu.pdb
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\obj\Debug\yılan oynu.csproj.AssemblyReference.cache
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\obj\Debug\yılan_oynu.Form1.resources
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\obj\Debug\yılan_oynu.Properties.Resources.resources
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\obj\Debug\yılan oynu.csproj.GenerateResource.cache
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\obj\Debug\yılan oynu.csproj.CoreCompileInputs.cache
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\obj\Debug\yılan oynu.exe
+C:\Users\cetin\source\repos\yılan oynu\yılan oynu\obj\Debug\yılan oynu.pdb
